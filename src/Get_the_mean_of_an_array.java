@@ -14,7 +14,6 @@ public class Get_the_mean_of_an_array {
         return sum / marks.length;
     }
 
-
     public static void main(String[] args) {
         System.out.println(getAverage(new int[]{2, 2, 2, 2}));
     }
