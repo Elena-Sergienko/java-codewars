@@ -8,6 +8,7 @@
 ## Get the mean of an array
 ## Grasshopper - Summation
 ## Invert values
+## Keep Hydrated!
 ## MakeUpperCase
 ## N-th Power
 ## Set Alarm
