@@ -5,6 +5,7 @@
 ## Array plus array
 ## Are You Playing Banjo?
 ## Beginner Series #2 Clock
+## Fake Binary
 ## Get the mean of an array
 ## Grasshopper - Summation
 ## Invert values
