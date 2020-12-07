@@ -9,4 +9,5 @@
 ## Invert values
 ## MakeUpperCase
 ## Set Alarm
+## Square(n) Sum
 ## String repeat
