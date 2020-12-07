@@ -9,6 +9,7 @@
 ## Grasshopper - Summation
 ## Invert values
 ## MakeUpperCase
+## N-th Power
 ## Set Alarm
 ## Square(n) Sum
 ## String repeat
