@@ -6,4 +6,5 @@
 ## Get the mean of an array
 ## Grasshopper - Summation
 ## Invert values
+## MakeUpperCase
 ## Set Alarm
