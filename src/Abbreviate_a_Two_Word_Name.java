@@ -8,7 +8,7 @@
 
 public class Abbreviate_a_Two_Word_Name {
     public static String abbrevName(String name) {
-        return (name.charAt(0) + "." + name.charAt(name.indexOf(" ")+1)).toUpperCase();
+        return (name.charAt(0) + "." + name.charAt(name.indexOf(" ")+1));
     }
 
     public static void main(String[] args) {
