@@ -8,3 +8,4 @@
 ## Invert values
 ## MakeUpperCase
 ## Set Alarm
+## String repeat
