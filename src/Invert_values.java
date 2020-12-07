@@ -9,11 +9,10 @@ import java.util.Arrays;
 
 public class Invert_values {
     public static int[] invert(int[] array) {
-        int[] res = new int[array.length];
-        for (int i = 0; i < array.length; i++) {
-            res[i] = -array[i];
+        for (int i = 0; i < array.length; i++){
+            array[i] = -array[i];
         }
-        return res;
+        return array;
     }
 
     public static void main(String[] args) {
