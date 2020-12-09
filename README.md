@@ -1,9 +1,9 @@
-# java-codewars
+# JAVA-codewars
 
 ## A wolf in sheep's clothing
 ## Abbreviate a Two Word Name
-## Array plus array
 ## Are You Playing Banjo?
+## Array plus array
 ## Beginner Series #2 Clock
 ## Fake Binary
 ## Get the mean of an array
