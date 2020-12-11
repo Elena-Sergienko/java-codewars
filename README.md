@@ -1,5 +1,8 @@
 # JAVA-codewars
 
+
+![codewars](https://user-images.githubusercontent.com/68942106/101875182-0b178000-3b3f-11eb-924a-e05cba4033d8.png)
+
 ## A wolf in sheep's clothing
 ## Abbreviate a Two Word Name
 ## Are You Playing Banjo?
